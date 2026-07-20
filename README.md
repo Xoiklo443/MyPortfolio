@@ -1,5 +1,5 @@
 # MyPortfolio
-
+Bipen Khanal
 # Personal Portfolio Website
 
 A responsive personal portfolio website built using HTML5 and CSS3. This project showcases my background, technical skills, projects, resume, blog articles, and contact information through a clean, modern, and user-friendly interface.
